@@ -1,4 +1,5 @@
 # schoolWebsite
+<a href="https://springdalepublicschool0.netlify.app">Tap me to Visit</a>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
